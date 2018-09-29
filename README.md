@@ -1,4 +1,4 @@
-# CrowdCoin
+# Welcome to CrowdCoin
 CrowdCoin landing page in markup language
 ## Under construction
 
