@@ -1,4 +1,4 @@
-# CrowdCoin-Website
+# CrowdCoin
 CrowdCoin landing page in markup language
 ## Under construction
 
