@@ -23,7 +23,7 @@ Mi quis hendrerit dolor magna eget est lorem ipsum dolor. Malesuada fames ac tur
 [Insert Images here]
 <p align="left">
 <img src="https://steemitimages.com/DQmUUitrwaXbkft3QKBEDLqADMNm11F7mW2tcbPGbW55X96/CW11.1512068327.png " width="140">
-<img src="https://document-export.canva.com/DADETplOD9g/28/preview/0001-59750239.png" width="95">
-<img src="https://img8.androidappsapk.co/300/1/5/3/com.wecrypto.wecrypto.png" width="95">
+<img src="https://i.imgur.com/XFi3Nea.png" width="95">
+<img src="https://img8.androidappsapk.co/300/1/5/3/com.wecrypto.wecrypto.png" width="90">
   <p align="left">
 </p>
