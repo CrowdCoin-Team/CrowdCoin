@@ -23,6 +23,6 @@ Mi quis hendrerit dolor magna eget est lorem ipsum dolor. Malesuada fames ac tur
 [Insert Images here]
 <p align="left">
 <img src="https://steemitimages.com/DQmUUitrwaXbkft3QKBEDLqADMNm11F7mW2tcbPGbW55X96/CW11.1512068327.png " width="100">
-<p align="left">
 <img src="https://document-export.canva.com/DADETplOD9g/28/preview/0001-59750239.png" width="100">
+  <p align="left">
 </p>
