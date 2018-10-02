@@ -8,12 +8,6 @@ CrowdCoin landing page in markup language
 
 https://twitter.com/gamer456148/status/941538086013620225
 
-ICONeat: https://iconeat.com/ico/crowd-coin/
-
-FoundICO: https://foundico.com/ico/crowd-coin.html
-
-<a href="https://icobazaar.com/v2/crowdcoin" target="_blank"><img src="https://icobazaar.com/images/rating/rectangle/3.5.png"/></a>
-
 #### About Us
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Volutpat odio facilisis mauris sit amet massa vitae tortor condimentum. Quisque non tellus orci ac. Amet est placerat in egestas erat. Metus aliquam eleifend mi in nulla posuere sollicitudin aliquam ultrices. Venenatis lectus magna fringilla urna porttitor rhoncus dolor purus. Venenatis a condimentum vitae sapien pellentesque. Viverra vitae congue eu consequat ac felis donec et odio. Massa vitae tortor condimentum lacinia quis vel eros. Bibendum at varius vel pharetra vel turpis nunc eget lorem. Tortor condimentum lacinia quis vel eros. A pellentesque sit amet porttitor eget dolor.
 
