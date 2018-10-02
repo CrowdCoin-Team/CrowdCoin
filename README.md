@@ -20,6 +20,6 @@ Mi quis hendrerit dolor magna eget est lorem ipsum dolor. Malesuada fames ac tur
 <img src="https://i.imgur.com/XFi3Nea.png" width="95">
 <img src="https://img8.androidappsapk.co/300/1/5/3/com.wecrypto.wecrypto.png" width="90">
 <img src="https://i.imgur.com/ZqPbk7M.png" width="140">
-<img src="https://i.imgur.com/UnPyq28.png" width="82">
+<img src="https://i.imgur.com/GKlmvFv.png" width="82">
   <p align="left">
 </p>
