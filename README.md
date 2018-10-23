@@ -1,5 +1,7 @@
 # Welcome to CrowdCoin
 CrowdCoin landing page in markup language
+
+[![GitHub stars](https://img.shields.io/github/stars/CrowdCoin-Team/CrowdCoin.svg)](https://github.com/CrowdCoin-Team/CrowdCoin/stargazers) [![Twitter](https://img.shields.io/twitter/url/https/github.com/CrowdCoin-Team/CrowdCoin.svg?style=social)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2FCrowdCoin-Team%2FCrowdCoin)
 ## Under construction
 
 ##### MarketCap: 
