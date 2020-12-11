@@ -22,7 +22,7 @@ Users who invest in cryptocurrency often have little visibility of where the val
 <p align="left">
 <img src="https://steemitimages.com/DQmUUitrwaXbkft3QKBEDLqADMNm11F7mW2tcbPGbW55X96/CW11.1512068327.png " width="140">
 <img src="https://i.imgur.com/XFi3Nea.png" width="95">
-<img src="https://img8.androidappsapk.co/300/1/5/3/com.wecrypto.wecrypto.png" width="90">
+<img src="https://res-2.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco/dwiwwq4eimwpqlntnim1" width="90">
 <img src="https://i.imgur.com/aE8dWSL.png" width="140">
 <img src="https://i.imgur.com/GKlmvFv.png" width="82">
   <p align="left">
